@@ -14,6 +14,7 @@
 - [선택 정렬(Selection Sort)](Algorithm/선택%20정렬(Selection%20Sort).md)
 - [삽입 정렬(Insertion Sort)](Algorithm/삽입%20정렬(Insertion%20Sort).md)
 - [퀵 정렬(Quick Sort)](Algorithm/퀵%20정렬(Quick%20Sort).md)
+- [병합 정렬(Merge Sort)](Algorithm/병합%20정렬(Merge%20Sort).md)
 
 ## 컴퓨터 과학
 
